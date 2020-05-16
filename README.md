@@ -6,6 +6,7 @@ Create an earthquake map with two different maps and the earthquake overlay ana 
 ### Methods Used:
 - Data Visualization 
 - Mapping 
+- USGS.gov earthquake data 
 
 ### Technologies:
 - JavaScript
